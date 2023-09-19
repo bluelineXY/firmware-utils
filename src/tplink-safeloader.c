@@ -1889,7 +1889,7 @@ static struct device_info boards[] = {
 			"EAP110-Wall(TP-Link|EU|N300):4.0\r\n"
 			"EAP110-Wall(TP-Link|US|N300):4.0\r\n",
 		.part_trail = PART_TRAIL_NONE,
-		.soft_ver = NULL,
+		.soft_ver = SOFT_VER_DEFAULT,
 		.soft_ver_compat_level = 1,
 
 		.partitions = {
