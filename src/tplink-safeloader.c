@@ -1880,7 +1880,7 @@ static struct device_info boards[] = {
 		.first_sysupgrade_partition = "os-image",
 		.last_sysupgrade_partition = "file-system",
 	},
-	/** Firmware layout for the EAP110-Outdoor v3 */
+	/** Firmware layout for the EAP110-Wall v4 */
 	{
 		.id     = "EAP110-WALL-V4",
 		.support_list =
